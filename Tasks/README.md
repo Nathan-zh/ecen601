@@ -24,4 +24,4 @@ These tasks consist of installing pertinent software and mastering relevant prog
 * [JetBrains Student](https://www.jetbrains.com/student/)
 
 
-* <Qiang Zhang> [Vincent_Zh](https://github.com/Vincent-Zh/)
+* <Qiang Zhang> [Vincent-Zh](https://github.com/Vincent-Zh)
