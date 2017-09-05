@@ -1,5 +1,5 @@
 # Identity
 
 * Name: <Qiang Zhang>
-* GitHubID: <Vincent_Zh>
-* NetID: <927000888>
+* GitHubID: <Vincent-Zh>
+* NetID: <zhangqiang>
