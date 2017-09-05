@@ -23,4 +23,6 @@ These tasks consist of installing pertinent software and mastering relevant prog
 * [PyCharm](https://www.jetbrains.com/pycharm-educational/)
 * [JetBrains Student](https://www.jetbrains.com/student/)  
 
-* \<Qiang Zhang\>, [Vincent-Zh](https://github.com/Vincent-Zh)
+```
+* <Qiang Zhang>, [Vincent-Zh](https://github.com/Vincent-Zh)
+```
